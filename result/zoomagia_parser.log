@@ -1,0 +1,131 @@
+2025-04-07 04:20:15,864 - INFO - Starting parser run
+2025-04-07 04:20:15,864 - INFO - Fetching product links from https://zoomagia.ru/shop/sale
+2025-04-07 04:20:16,731 - INFO - Found 20 product links
+2025-04-07 04:20:16,732 - INFO - Processing product 1/20: https://zoomagia.ru/shop/product/all-puppies-sukhoy-korm-dlya-shchenkov-vsekh-porod-s-kuritsey-sale
+2025-04-07 04:20:16,732 - INFO - Parsing product: https://zoomagia.ru/shop/product/all-puppies-sukhoy-korm-dlya-shchenkov-vsekh-porod-s-kuritsey-sale
+2025-04-07 04:20:19,247 - INFO - Processing product 2/20: https://zoomagia.ru/shop/product/blitz-holistic-beef-vlazhnyy-korm-dlya-sobak-melkikh-porod-govyadina-s-tykvoy-sale
+2025-04-07 04:20:19,248 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-beef-vlazhnyy-korm-dlya-sobak-melkikh-porod-govyadina-s-tykvoy-sale
+2025-04-07 04:20:21,719 - INFO - Processing product 3/20: https://zoomagia.ru/shop/product/blitz-holistic-duck-vlazhnyy-korm-dlya-sobak-melkikh-porod-utka-s-tsukini-sale
+2025-04-07 04:20:21,719 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-duck-vlazhnyy-korm-dlya-sobak-melkikh-porod-utka-s-tsukini-sale
+2025-04-07 04:20:24,265 - INFO - Processing product 4/20: https://zoomagia.ru/shop/product/blitz-holistic-starter-vlazhnyy-korm-dlya-shchenkov-indeyka-s-tsukini-sale
+2025-04-07 04:20:24,265 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-starter-vlazhnyy-korm-dlya-shchenkov-indeyka-s-tsukini-sale
+2025-04-07 04:20:26,742 - INFO - Processing product 5/20: https://zoomagia.ru/shop/product/blitz-sensitive-adult-small-lamb-rice-sukhoy-korm-dlya-vzroslykh-sobak-melkikh-porod-s-yagnenkom-sale
+2025-04-07 04:20:26,742 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-sensitive-adult-small-lamb-rice-sukhoy-korm-dlya-vzroslykh-sobak-melkikh-porod-s-yagnenkom-sale
+2025-04-07 04:20:29,250 - INFO - Processing product 6/20: https://zoomagia.ru/shop/product/bowl-wow-sukhoy-korm-dlya-sterilizovannykh-koshek-indeyka-kuritsa-svekla-sale
+2025-04-07 04:20:29,250 - INFO - Parsing product: https://zoomagia.ru/shop/product/bowl-wow-sukhoy-korm-dlya-sterilizovannykh-koshek-indeyka-kuritsa-svekla-sale
+2025-04-07 04:20:31,752 - INFO - Processing product 7/20: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-kotyat-krolik-sale
+2025-04-07 04:20:31,752 - INFO - Parsing product: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-kotyat-krolik-sale
+2025-04-07 04:20:34,238 - INFO - Processing product 8/20: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-sobak-melkikh-porod-kuritsa-s-tsukini-sale
+2025-04-07 04:20:34,238 - INFO - Parsing product: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-sobak-melkikh-porod-kuritsa-s-tsukini-sale
+2025-04-07 04:20:36,696 - INFO - Processing product 9/20: https://zoomagia.ru/shop/product/grandorf-adult-indoor-lamb-turkey-sukhoy-korm-dlya-vzroslykh-koshek-sale
+2025-04-07 04:20:36,696 - INFO - Parsing product: https://zoomagia.ru/shop/product/grandorf-adult-indoor-lamb-turkey-sukhoy-korm-dlya-vzroslykh-koshek-sale
+2025-04-07 04:20:39,230 - INFO - Processing product 10/20: https://zoomagia.ru/shop/product/grandorf-junior-medium-maxi-lamb-turkey-sukhoy-korm-dlya-molodykh-sobak-sale
+2025-04-07 04:20:39,230 - INFO - Parsing product: https://zoomagia.ru/shop/product/grandorf-junior-medium-maxi-lamb-turkey-sukhoy-korm-dlya-molodykh-sobak-sale
+2025-04-07 04:20:41,750 - INFO - Processing product 11/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-indeykoy-sale
+2025-04-07 04:20:41,750 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-indeykoy-sale
+2025-04-07 04:20:44,232 - INFO - Processing product 12/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-krolikom-sale
+2025-04-07 04:20:44,232 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-krolikom-sale
+2025-04-07 04:20:46,716 - INFO - Processing product 13/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-lososem-sale
+2025-04-07 04:20:46,716 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-lososem-sale
+2025-04-07 04:20:49,190 - INFO - Processing product 14/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-perepelkoy-sale
+2025-04-07 04:20:49,190 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-perepelkoy-sale
+2025-04-07 04:20:51,782 - INFO - Processing product 15/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-yagnenkom-sale
+2025-04-07 04:20:51,782 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-yagnenkom-sale
+2025-04-07 04:20:54,271 - INFO - Processing product 16/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:20:54,271 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:20:56,787 - INFO - Processing product 17/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-shchenkov-s-telyatinoy-sale
+2025-04-07 04:20:56,787 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-shchenkov-s-telyatinoy-sale
+2025-04-07 04:20:59,260 - INFO - Processing product 18/20: https://zoomagia.ru/shop/product/solid-natura-selection-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:20:59,260 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-selection-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:21:01,716 - INFO - Processing product 19/20: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-sale
+2025-04-07 04:21:01,716 - INFO - Parsing product: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-sale
+2025-04-07 04:21:04,202 - INFO - Processing product 20/20: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-silikon-sale
+2025-04-07 04:21:04,202 - INFO - Parsing product: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-silikon-sale
+2025-04-07 04:21:06,681 - INFO - Data successfully saved to output/zoomagia_products.json and output/zoomagia_products_20250407_042106.json
+2025-04-07 04:21:06,682 - INFO - Parser run completed. Processed 20 products
+2025-04-07 04:46:38,569 - INFO - Starting parser run
+2025-04-07 04:46:38,570 - INFO - Fetching product links from https://zoomagia.ru/shop/sale
+2025-04-07 04:46:38,998 - INFO - Found 20 product links
+2025-04-07 04:46:38,998 - INFO - Processing product 1/20: https://zoomagia.ru/shop/product/all-puppies-sukhoy-korm-dlya-shchenkov-vsekh-porod-s-kuritsey-sale
+2025-04-07 04:46:38,998 - INFO - Parsing product: https://zoomagia.ru/shop/product/all-puppies-sukhoy-korm-dlya-shchenkov-vsekh-porod-s-kuritsey-sale
+2025-04-07 04:46:41,493 - INFO - Processing product 2/20: https://zoomagia.ru/shop/product/blitz-holistic-beef-vlazhnyy-korm-dlya-sobak-melkikh-porod-govyadina-s-tykvoy-sale
+2025-04-07 04:46:41,493 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-beef-vlazhnyy-korm-dlya-sobak-melkikh-porod-govyadina-s-tykvoy-sale
+2025-04-07 04:46:43,934 - INFO - Processing product 3/20: https://zoomagia.ru/shop/product/blitz-holistic-duck-vlazhnyy-korm-dlya-sobak-melkikh-porod-utka-s-tsukini-sale
+2025-04-07 04:46:43,934 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-duck-vlazhnyy-korm-dlya-sobak-melkikh-porod-utka-s-tsukini-sale
+2025-04-07 04:46:46,415 - INFO - Processing product 4/20: https://zoomagia.ru/shop/product/blitz-holistic-starter-vlazhnyy-korm-dlya-shchenkov-indeyka-s-tsukini-sale
+2025-04-07 04:46:46,415 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-starter-vlazhnyy-korm-dlya-shchenkov-indeyka-s-tsukini-sale
+2025-04-07 04:46:48,958 - INFO - Processing product 5/20: https://zoomagia.ru/shop/product/blitz-sensitive-adult-small-lamb-rice-sukhoy-korm-dlya-vzroslykh-sobak-melkikh-porod-s-yagnenkom-sale
+2025-04-07 04:46:48,958 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-sensitive-adult-small-lamb-rice-sukhoy-korm-dlya-vzroslykh-sobak-melkikh-porod-s-yagnenkom-sale
+2025-04-07 04:46:51,433 - INFO - Processing product 6/20: https://zoomagia.ru/shop/product/bowl-wow-sukhoy-korm-dlya-sterilizovannykh-koshek-indeyka-kuritsa-svekla-sale
+2025-04-07 04:46:51,433 - INFO - Parsing product: https://zoomagia.ru/shop/product/bowl-wow-sukhoy-korm-dlya-sterilizovannykh-koshek-indeyka-kuritsa-svekla-sale
+2025-04-07 04:46:53,905 - INFO - Processing product 7/20: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-kotyat-krolik-sale
+2025-04-07 04:46:53,906 - INFO - Parsing product: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-kotyat-krolik-sale
+2025-04-07 04:46:56,403 - INFO - Processing product 8/20: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-sobak-melkikh-porod-kuritsa-s-tsukini-sale
+2025-04-07 04:46:56,403 - INFO - Parsing product: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-sobak-melkikh-porod-kuritsa-s-tsukini-sale
+2025-04-07 04:46:58,858 - INFO - Processing product 9/20: https://zoomagia.ru/shop/product/grandorf-adult-indoor-lamb-turkey-sukhoy-korm-dlya-vzroslykh-koshek-sale
+2025-04-07 04:46:58,858 - INFO - Parsing product: https://zoomagia.ru/shop/product/grandorf-adult-indoor-lamb-turkey-sukhoy-korm-dlya-vzroslykh-koshek-sale
+2025-04-07 04:47:01,369 - INFO - Processing product 10/20: https://zoomagia.ru/shop/product/grandorf-junior-medium-maxi-lamb-turkey-sukhoy-korm-dlya-molodykh-sobak-sale
+2025-04-07 04:47:01,369 - INFO - Parsing product: https://zoomagia.ru/shop/product/grandorf-junior-medium-maxi-lamb-turkey-sukhoy-korm-dlya-molodykh-sobak-sale
+2025-04-07 04:47:03,870 - INFO - Processing product 11/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-indeykoy-sale
+2025-04-07 04:47:03,871 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-indeykoy-sale
+2025-04-07 04:47:06,324 - INFO - Processing product 12/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-krolikom-sale
+2025-04-07 04:47:06,324 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-krolikom-sale
+2025-04-07 04:47:08,829 - INFO - Processing product 13/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-lososem-sale
+2025-04-07 04:47:08,829 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-lososem-sale
+2025-04-07 04:47:11,269 - INFO - Processing product 14/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-perepelkoy-sale
+2025-04-07 04:47:11,269 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-perepelkoy-sale
+2025-04-07 04:47:13,811 - INFO - Processing product 15/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-yagnenkom-sale
+2025-04-07 04:47:13,811 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-yagnenkom-sale
+2025-04-07 04:47:16,316 - INFO - Processing product 16/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:47:16,317 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:47:18,809 - INFO - Processing product 17/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-shchenkov-s-telyatinoy-sale
+2025-04-07 04:47:18,809 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-shchenkov-s-telyatinoy-sale
+2025-04-07 04:47:21,281 - INFO - Processing product 18/20: https://zoomagia.ru/shop/product/solid-natura-selection-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:47:21,281 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-selection-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:47:23,742 - INFO - Processing product 19/20: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-sale
+2025-04-07 04:47:23,742 - INFO - Parsing product: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-sale
+2025-04-07 04:47:57,629 - INFO - Starting parser run
+2025-04-07 04:47:57,629 - INFO - Fetching product links from https://zoomagia.ru/shop/sale
+2025-04-07 04:47:58,112 - INFO - Found 20 product links
+2025-04-07 04:47:58,113 - INFO - Processing product 1/20: https://zoomagia.ru/shop/product/all-puppies-sukhoy-korm-dlya-shchenkov-vsekh-porod-s-kuritsey-sale
+2025-04-07 04:47:58,113 - INFO - Parsing product: https://zoomagia.ru/shop/product/all-puppies-sukhoy-korm-dlya-shchenkov-vsekh-porod-s-kuritsey-sale
+2025-04-07 04:48:00,625 - INFO - Processing product 2/20: https://zoomagia.ru/shop/product/blitz-holistic-beef-vlazhnyy-korm-dlya-sobak-melkikh-porod-govyadina-s-tykvoy-sale
+2025-04-07 04:48:00,625 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-beef-vlazhnyy-korm-dlya-sobak-melkikh-porod-govyadina-s-tykvoy-sale
+2025-04-07 04:48:03,141 - INFO - Processing product 3/20: https://zoomagia.ru/shop/product/blitz-holistic-duck-vlazhnyy-korm-dlya-sobak-melkikh-porod-utka-s-tsukini-sale
+2025-04-07 04:48:03,141 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-duck-vlazhnyy-korm-dlya-sobak-melkikh-porod-utka-s-tsukini-sale
+2025-04-07 04:48:05,623 - INFO - Processing product 4/20: https://zoomagia.ru/shop/product/blitz-holistic-starter-vlazhnyy-korm-dlya-shchenkov-indeyka-s-tsukini-sale
+2025-04-07 04:48:05,624 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-holistic-starter-vlazhnyy-korm-dlya-shchenkov-indeyka-s-tsukini-sale
+2025-04-07 04:48:08,242 - INFO - Processing product 5/20: https://zoomagia.ru/shop/product/blitz-sensitive-adult-small-lamb-rice-sukhoy-korm-dlya-vzroslykh-sobak-melkikh-porod-s-yagnenkom-sale
+2025-04-07 04:48:08,242 - INFO - Parsing product: https://zoomagia.ru/shop/product/blitz-sensitive-adult-small-lamb-rice-sukhoy-korm-dlya-vzroslykh-sobak-melkikh-porod-s-yagnenkom-sale
+2025-04-07 04:48:10,732 - INFO - Processing product 6/20: https://zoomagia.ru/shop/product/bowl-wow-sukhoy-korm-dlya-sterilizovannykh-koshek-indeyka-kuritsa-svekla-sale
+2025-04-07 04:48:10,732 - INFO - Parsing product: https://zoomagia.ru/shop/product/bowl-wow-sukhoy-korm-dlya-sterilizovannykh-koshek-indeyka-kuritsa-svekla-sale
+2025-04-07 04:48:13,256 - INFO - Processing product 7/20: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-kotyat-krolik-sale
+2025-04-07 04:48:13,256 - INFO - Parsing product: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-kotyat-krolik-sale
+2025-04-07 04:48:15,744 - INFO - Processing product 8/20: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-sobak-melkikh-porod-kuritsa-s-tsukini-sale
+2025-04-07 04:48:15,744 - INFO - Parsing product: https://zoomagia.ru/shop/product/brit-premium-by-nature-konservy-dlya-sobak-melkikh-porod-kuritsa-s-tsukini-sale
+2025-04-07 04:48:18,188 - INFO - Processing product 9/20: https://zoomagia.ru/shop/product/grandorf-adult-indoor-lamb-turkey-sukhoy-korm-dlya-vzroslykh-koshek-sale
+2025-04-07 04:48:18,188 - INFO - Parsing product: https://zoomagia.ru/shop/product/grandorf-adult-indoor-lamb-turkey-sukhoy-korm-dlya-vzroslykh-koshek-sale
+2025-04-07 04:48:20,694 - INFO - Processing product 10/20: https://zoomagia.ru/shop/product/grandorf-junior-medium-maxi-lamb-turkey-sukhoy-korm-dlya-molodykh-sobak-sale
+2025-04-07 04:48:20,694 - INFO - Parsing product: https://zoomagia.ru/shop/product/grandorf-junior-medium-maxi-lamb-turkey-sukhoy-korm-dlya-molodykh-sobak-sale
+2025-04-07 04:48:23,217 - INFO - Processing product 11/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-indeykoy-sale
+2025-04-07 04:48:23,218 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-indeykoy-sale
+2025-04-07 04:48:25,667 - INFO - Processing product 12/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-krolikom-sale
+2025-04-07 04:48:25,667 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-krolikom-sale
+2025-04-07 04:48:28,153 - INFO - Processing product 13/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-lososem-sale
+2025-04-07 04:48:28,153 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-lososem-sale
+2025-04-07 04:48:30,620 - INFO - Processing product 14/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-perepelkoy-sale
+2025-04-07 04:48:30,620 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-perepelkoy-sale
+2025-04-07 04:48:33,133 - INFO - Processing product 15/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-yagnenkom-sale
+2025-04-07 04:48:33,133 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-koshek-s-yagnenkom-sale
+2025-04-07 04:48:35,595 - INFO - Processing product 16/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:48:35,596 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:48:38,066 - INFO - Processing product 17/20: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-shchenkov-s-telyatinoy-sale
+2025-04-07 04:48:38,067 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-holistic-konservy-dlya-shchenkov-s-telyatinoy-sale
+2025-04-07 04:48:40,528 - INFO - Processing product 18/20: https://zoomagia.ru/shop/product/solid-natura-selection-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:48:40,528 - INFO - Parsing product: https://zoomagia.ru/shop/product/solid-natura-selection-konservy-dlya-sobak-s-kuritsey-sale
+2025-04-07 04:48:42,963 - INFO - Processing product 19/20: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-sale
+2025-04-07 04:48:42,963 - INFO - Parsing product: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-sale
+2025-04-07 04:48:45,394 - INFO - Processing product 20/20: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-silikon-sale
+2025-04-07 04:48:45,395 - INFO - Parsing product: https://zoomagia.ru/shop/product/trixie-migayushchiy-osheynik-dlya-sobak-xs-s-silikon-sale
+2025-04-07 04:48:47,872 - INFO - Data successfully saved to output/zoomagia_products.json and output/zoomagia_products_20250407_044847.json
+2025-04-07 04:48:47,872 - INFO - Parser run completed. Processed 20 products
